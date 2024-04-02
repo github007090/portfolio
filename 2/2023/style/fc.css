@@ -1,0 +1,31 @@
+h1{
+    background-color: rgb(30, 128, 0);
+}
+img{
+    width: 500px;
+}
+p{
+    background-color: rgb(30, 128, 0);
+}
+a{
+    background-color: red;
+}
+.more{
+    color: green;
+    -webkit-text-stroke-width: 2px;
+}
+body{
+    background-image: url(https://images.pushsquare.com/595b106716f47/ea-sports-fc-24-all-licensed-teams-leagues-and-players-1.large.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+div{
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 15px;
+    width: 500px;
+    margin-inline: auto;
+    border-color: rgb(42, 154, 32);
+    background-color: rgb(31, 20, 136);
+    padding: 10px;
+}

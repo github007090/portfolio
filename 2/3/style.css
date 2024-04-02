@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    display: inline-block;
+    width: 30%;
+    background-color: #ccc;
+    margin: 1%;
+    border-style: solid;
+    border-radius: 5%;
+}
+
+img {
+    width: 100%;
+    height: 300px;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-size: 30px;
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/1334436084/photo/top-down-view-of-colorful-illuminated-gaming-accessories-laying-on-table.jpg?s=612x612&w=0&k=20&c=E9xnbAZoBS5LlUX0q-zxT_3m6gEZpyB2k51_U4LLMNs=);
+    background-attachment: fixed;
+    background-size: cover;
+}

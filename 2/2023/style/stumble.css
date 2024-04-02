@@ -1,0 +1,27 @@
+h1{
+    background-color: blue;
+}
+img{
+    width: 500px;
+}
+p{
+    background-color: blue;
+}
+a{
+    background-color: rgb(255, 0, 0);
+}
+div{
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 15px;
+    width: 500px;
+    height: 750px;
+    margin-inline: auto;
+    border-color: rgb(217, 255, 0);
+    background-color: yellow;
+}
+body{
+    background-image: url(https://www-assets.stumbleguys.com/media/assets/crab_landing_f168e1f808.png);
+    background-size: cover;
+    background-attachment: fixed;
+}

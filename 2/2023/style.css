@@ -1,0 +1,35 @@
+.bit{
+   border-style: solid;
+   width: 300px;
+   border-width: 20px;
+   background-color: green;
+}
+.red{
+    width: 300px;
+}
+.box{
+    border-style: solid;
+    width: 300px;
+    border-width: 20px; 
+    background-color: blue;
+}
+.yellow{
+    width: 300px;
+}
+.yuppy{
+    border-style: solid;
+    width: 300px;
+    border-width: 20px;
+    background-color: yellow;
+}
+.purple{
+    width: 300px;
+}
+.mobile{
+    color: red;
+}
+body{
+    background-image: url(https://bogatyr.club/uploads/posts/2023-06/1687517376_bogatyr-club-p-geimpad-neon-foni-vkontakte-1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}

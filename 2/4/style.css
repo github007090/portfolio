@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    display: inline-block;
+    width: 100%;
+    background-color: #ccc;
+    margin: 1%;
+    border-style: solid;
+    border-radius: 5%; 
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-size: 30px;
+}
+body{
+    background-image: url(https://cdn-fastly.autoguide.com/media/2023/06/07/12355372/2022-bmw-m5-cs-review-an-exclusive-magic-show.jpg?size=720x845&nocrop=1);
+    background-attachment: fixed;
+    background-size: cover;
+}

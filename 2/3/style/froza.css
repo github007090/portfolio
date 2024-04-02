@@ -1,0 +1,28 @@
+div {
+    display: inline-block;
+    width: 30%;
+    background-color: yellow;
+    margin: 1%;
+    border-style: solid;
+    border-radius: 5%;
+    padding: 5px;
+}
+
+img {
+    width: 100%;
+    height: 300px;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-size: 30px;
+}
+body{
+    background-image: url(https://assets.xboxservices.com/assets/0c/8c/0c8c1363-d3d7-4518-8497-fcde80a61939.jpg?n=Forza-Horizon-5_Sneaky-Slider-1084_Fast-X_1600x675.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.froza{
+    background-color: red;
+}
